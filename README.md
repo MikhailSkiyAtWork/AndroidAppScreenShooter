@@ -29,5 +29,5 @@ run script in the terminal
 
 python /Users/Mikhail/PycharmProjects/androidUITest/mymonkey.py
 
-IMPORTNANT. In order to save screenshots in your own location, you need to change location in script mymonkey.py in method makeScreen(name) 
+IMPORTANT. In order to save screenshots in your own location, you need to change location in script mymonkey.py in method makeScreen(name)
 
