@@ -1,5 +1,6 @@
 # AndroidAppScreenShooter
 In order to use this script it is necessary to install Android SDK and AndroidViewClient library
+
 Links:
 Android SDK http://developer.android.com/sdk/index.html
 AndroidViewClient https://github.com/dtmilano/AndroidViewClient (necessary to download it as zip)
