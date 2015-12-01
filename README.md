@@ -1,5 +1,5 @@
 # AndroidAppScreenShooter
-In order to use this screept it is necessary to install Android SDK and AndroidView library
+In order to use this scrept it is necessary to install Android SDK and AndroidView library
 Links:
 Android SDK http://developer.android.com/sdk/index.html
 AndroidViewClient https://github.com/dtmilano/AndroidViewClient (necessary to download it as zip)
