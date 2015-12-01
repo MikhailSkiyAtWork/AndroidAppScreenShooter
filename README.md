@@ -2,7 +2,7 @@
 In order to use this script it is necessary to install Android SDK and AndroidViewClient library
 
 Links:
-Android SDK http://developer.android.com/sdk/index.html /n
+Android SDK http://developer.android.com/sdk/index.html \n
 AndroidViewClient https://github.com/dtmilano/AndroidViewClient (necessary to download it as zip)
 Installation AndroidViewClient https://github.com/dtmilano/AndroidViewClient/wiki
 Install Python Image Library http://stackoverflow.com/a/29438193/1462969
